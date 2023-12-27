@@ -1,0 +1,26 @@
+.btn-light{
+    background-color: #bbbbbb;
+    border-color: #bbbbbb;
+    color: #ffffff;
+}
+.btn-light:hover{
+    background-color: #999999;
+    border-color: #999999;
+    color: #ffffff;
+}
+
+.tit{
+    margin-top: 10px;
+}
+.pn{
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.pndnt{
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
